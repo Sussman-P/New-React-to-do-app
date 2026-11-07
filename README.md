@@ -7,6 +7,7 @@ A full-stack to-do app built with React and Express.
 - Frontend: React (Vite)
 - Backend: Express.js
 - Node.js 26 (see `.nvmrc`)
+- (TBA) PostgreSQL DB<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="PostgreSQL" />
 
 ## Status
 
